@@ -41,6 +41,8 @@ allBtn.forEach((item) =>
    
    
 })
+
+// This is for draw the game
 const drawGame = () =>
 {
     Msg.innerHTML = `<h2> Draw Game .Please try again</h2<`
